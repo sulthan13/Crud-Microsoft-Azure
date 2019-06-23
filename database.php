@@ -1,10 +1,10 @@
 <?php
 class Database
 {
-    private static $dbName = 'crud' ;
-    private static $dbHost = 'localhost' ;
-    private static $dbUsername = 'root';
-    private static $dbUserPassword = '';
+    private static $dbName = 'TesdatabasAzure' ;
+    private static $dbHost = 'serverhero.database.windows.net' ;
+    private static $dbUsername = 'serverhero';
+    private static $dbUserPassword = 'Batubacan123';
      
     private static $cont  = null;
      
